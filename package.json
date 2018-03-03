@@ -1,0 +1,22 @@
+{
+  "name": "monitor",
+  "version": "0.0.1",
+  "description": "Let's monitor",
+  "main": "myJs.js",
+  "scripts": {
+    "myJs": "mocha myJs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duboffik/monitor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duboffik/monitor/"
+  },
+  "homepage": "https://github.com/duboffik/monitor",
+  "devDependencies": {
+    "mocha": "^5.0.1"
+  }
+}
